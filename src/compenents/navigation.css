@@ -1,0 +1,15 @@
+ul{
+    width: 15vw;
+    height: 69vh;
+    margin: 0px;
+    margin-top: 15px ;
+    padding-left: 50px;
+    padding-right: 80px;
+    padding-top: 20px;
+    border: grey solid 3px;
+    font-size: 22px
+}
+li{
+    margin: 0px;
+
+}

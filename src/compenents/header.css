@@ -1,0 +1,21 @@
+header{
+    height: 20vh;
+    display: flex ;
+    justify-content: flex-start;
+    align-items: center;
+    line-height:10px ;
+    border: #2622a2 solid 3px;
+    border-radius: 10px;
+}
+
+#t1,#t2{
+    padding-left: 15px;
+}
+#t1{
+    font-weight:bolder;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #d47b7b;
+}
+#t2{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

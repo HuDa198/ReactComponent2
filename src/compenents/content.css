@@ -1,0 +1,11 @@
+#content{
+    height: 69vh;
+    width: 85vw;
+    padding-left: 20px;
+    padding-top: 20px;
+    border: solid 3px red;
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 22px;
+}
